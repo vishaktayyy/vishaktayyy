@@ -33,4 +33,4 @@ Digital signal processing application
 ## 📫 Get In Touch
 I'm always interested in collaborating on innovative projects in electronics and telecommunications. Feel free to reach out!
 
-[GitHub](https://github.com/vishaktayyy) | [LinkedIn](https://linkedin.com/in/vishal-patel-9bb83727a) | [Email](vishalpatel8201@gmail.com)
+[GitHub](https://github.com/vishaktayyy) | [LinkedIn](https://linkedin.com/in/vishal-patel-9bb83727a) | [Email](mailto:vishalpatel8201@gmail.com)
